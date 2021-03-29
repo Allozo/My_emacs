@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: for_each
+# key: fore
+# --
+for (auto ${1:&value}: ${2:container}) {
+   $0
+}

@@ -1,0 +1,37 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/allozo/" . "Рабочий стол/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/allozo/Рабочий стол/"
+ "/home/allozo/programming/CAOS/1/"
+ "/home/allozo/"
+ "/home/allozo/programming/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "1"
+ "matrix.py"
+ "wtf.py"
+ ".emacs"
+ "test_new1.cpp"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/allozo/Рабочий стол/" (24427 6664 60703 948000) "../" "./")
+
+ ("/home/allozo/" (24462 310 922265 646000) ".Xauthority" ".gem/" "../" ".ICEauthority" ".xsession-errors" ".gnupg/" "examples.desktop" "Документы/" ".pki/" ".local/" ".matlab/" ".emacs.d/" ".gconf/" ".yandex/" ".mozilla/" "programming/" ".vscode/" ".xsession-errors.old" "./" ".config/" ".java/" ".ssh/" ".nvidia-settings-rc" "Общедоступные/" "Видео/" ".dmrc" ".wget-hsts" "snap/" "venv/" ".cache/" "Музыка/" ".emacs" ".bash_logout" ".bash_history" ".emacs~" "Загрузки/" "Шаблоны/" ".bashrc" ".sudo_as_admin_successful" ".profile" "Рабочий стол/" "Изображения/" ".nv/")
+
+ ("/home/allozo/programming/CAOS/1/" (24438 8253 262127 966000) "../" "./")
+
+ ("/home/allozo/programming/" (24320 23939 270421 40000) "../" "test.cpp" "test_new1.cpp" "./" "c/" "python/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
